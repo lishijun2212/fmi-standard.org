@@ -5556,5 +5556,33 @@
         ],
         "fmuExport": [],
         "fmuImport": ["CS"]
+    },
+    {
+        "name": "TSMaster",
+        "license": "commercial",
+        "url": "https://www.tosunai.com/",
+        "logo": "TSMaster.png",
+        "vendor": "TOSUN",
+        "vendorURL": "https://www.tosunai.com/",
+        "examplesURL": "https://www.tosunai.com/",
+        "description": "TSMaster is a comprehensive automotive bus design, simulation, analysis, testing, diagnosis and calibration tool",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+		"interfaces": [
+			"GUI"
+    ],
+        "fmiVersions": [
+            "2.0",
+            "3.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
     }
 ]
